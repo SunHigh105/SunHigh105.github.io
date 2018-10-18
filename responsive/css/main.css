@@ -32,14 +32,14 @@ div.section-inner {
 /* Header */
 div.header {
 	text-align: center;
-	background-color: #E9E9E9;
+	background-color: rgb(252, 251, 251);
 	padding: 40px 0;
 }
 
 /* Navigation */
 div.nav {
 	margin: auto;
-	background-color: #d4d4d4;
+	background-color: #55c500;
 }
 
 div.nav ul {
@@ -51,6 +51,7 @@ div.nav ul li {
 	list-style: none;
 	float: left;
 	font-size: 93%;
+	color: #FFF;
 }
 
 div.nav ul li a:link,
